@@ -22,4 +22,4 @@ Aplicativo mobile de controle de hábitos criado por meio do ReactNative durante
 </ul>
 
 <h2>📷Imagens do projeto📷</h2>
-![Tela principal](https://user-images.githubusercontent.com/74430293/215236806-5ff9f677-c3ee-412f-a107-d30236471eff.jpeg)
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/74430293/215236953-93df34a8-1088-42a9-95c2-8369073d62f6.png">
